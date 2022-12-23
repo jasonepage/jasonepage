@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm <a href="https://jasonepage.github.io/" target="blank">
+Jason!</a></h1>
 
-<!--
-**jasonepage/jasonepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me:</h2>
 
-Here are some ideas to get you started:
+<ul>
+  <li> 👨🏻‍🎓 I'm a second-year computer science student at the University of Oregon interested in artificial intelligence and machine learning.</li>
+  <li> 👨🏻‍💻 I am proficient in Python, C++, and JavaScript, and I have experience with frameworks such as Angular and React. </li>
+  <li> 🍎 I am passionate about using technology to make a positive impact in the world, and I'm always looking for new opportunities to learn and grow as a developer.</li>
+  <li> 💬 Any Questions/Feedback? Reach out & say Hi!</li>
+  <li> ✉️ How to reach me: <a href="https://jasonepage.github.io/" target="blank"> jasonepage.github.io</a></li>
+</ul>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Socials: </h2>
+<p align="center">
+  <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jason-page-b244b9233/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/jasonepage">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    </div>
+</p>
