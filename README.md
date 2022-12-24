@@ -5,7 +5,7 @@ Jason!</a></h1>
 
 <ul>
   <li> 👨🏻‍🎓 I'm a second-year computer science student at the University of Oregon interested in artificial intelligence and machine learning.</li>
-  <li> 👨🏻‍💻 I am proficient in Python, C++, and JavaScript, and I have experience with frameworks such as Angular and React. </li>
+  <li> 👨🏻‍💻 I am proficient in Python and JavaScript/TypeScript, and I have experience with frameworks such as Angular and React. </li>
   <li> 🍎 I am passionate about using technology to make a positive impact in the world, and I'm always looking for new opportunities to learn and grow as a developer.</li>
   <li> 💬 Any Questions/Feedback? Reach out & say Hi!</li>
   <li> ✉️ How to reach me: <a href="https://jasonepage.github.io/" target="blank"> jasonepage.github.io</a></li>
