@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm <a href="https://jasonepage.github.io/" target="blank">
 Jason!</a></h1>
 
-<h2>About me:</h2>
+<h3>About me:</h3>
 
 - 👨🏻‍🎓 I'm a second-year computer science student at the University of Oregon interested in Software and Web development.
 - 👨🏻‍💻 I am proficient in Python and JavaScript/TypeScript, and I have experience with frameworks such as Angular and React.
@@ -10,7 +10,7 @@ Jason!</a></h1>
 - ✉️ How to reach me: <a href="https://jasonepage.github.io/" target="blank"> jasonepage.github.io </a>
 
 <br>
-<h2 align="center"> Contacts: </h2>
+<h3 align="center"> Contacts: </h3>
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jason-page-b244b9233/">
