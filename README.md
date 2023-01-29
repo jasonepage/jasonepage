@@ -1,4 +1,4 @@
-# Ethan Mooney :smile: Hello, I'm Jason!
+# :smile: Hello, I'm Jason!
 Computer Science & CIT @University of Oregon **|** Currently looking for a Summer 2023 Internship!
  
 ## :raising_hand: About
