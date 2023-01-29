@@ -1,14 +1,14 @@
-<h1>Hello 👋, I'm <a href="https://jasonepage.github.io/" target="blank"> Jason!</a></h1>
-Computer Science & CIT @University of Oregon, Currently looking for a Summer 2023 Internship!
+# Ethan Mooney :smile: Hello, I'm Jason!
+Computer Science & CIT @University of Oregon **|** Currently looking for a Summer 2023 Internship!
  
-<h2>🙋‍♂️ About</h2>
+## :raising_hand: About
 Hey! I'm Jason, a computer science major at the University of Oregon. I love all types of programming, but especially enjoy fullstack and backend development!
 
-<h2>💻 Technologies</h2>
--Frontend Web Development with HTML, CSS, JavaScript, React, and Angular
--Backend Development with Python, Java, C++, NodeJS
+## :computer: Technologies
+- Frontend Web Development with **HTML, CSS, JavaScript, React, and Angular**
+- Backend Development with **Python, Java, C++, NodeJS**
 
-How to reach me: <a href="https://jasonepage.github.io/" target="blank"> jasonepage.github.io</a>
+## :mailbox: Get in Touch: [jasonepage.github.io](https://jasonepage.github.io)
 
 <br>
 <h3 align="center"> Contacts: </h3>
