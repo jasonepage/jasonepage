@@ -6,7 +6,7 @@ Jason!</a></h1>
 - 👨🏻‍🎓 I'm a second-year computer science student at the University of Oregon interested in Software and Web development.
 - 👨🏻‍💻 I am proficient in Python and JavaScript/TypeScript, and I have experience with frameworks such as Angular and React.
 - 🍎 I am passionate about using technology to make a positive impact in the world, and I'm always looking for new opportunities to learn and grow as a developer.
-- 💬 Reach out & say Hi!!
+- 💬 Reach out & say Hi!
 - ✉️ How to reach me: <a href="https://jasonepage.github.io/" target="blank"> jasonepage.github.io </a>
 
 <br>
