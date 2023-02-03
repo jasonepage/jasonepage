@@ -6,6 +6,6 @@ Hey! I'm Jason, a computer science major at the University of Oregon. I love all
 
 ## :computer: Technologies
 - Frontend Web Development with **JavaScript/TypeScript, React, Angular, HTML/CSS**
-- Backend Development with **Python, Java, C++**
+- Backend Development with **Python, Java**
 
 ## :mailbox: Get in Touch: [jasonepage.github.io](https://jasonepage.github.io)
