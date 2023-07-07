@@ -1,4 +1,4 @@
-# :smile: Hello, I'm Jason!
+# Hello, I'm Jason!
 Computer Science @University of Oregon 
  
 ## :sparkles: About
