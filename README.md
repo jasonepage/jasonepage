@@ -1,3 +1,3 @@
 ## :sparkles: About
-Hi! I'm Jason, a computer science major at the University of Oregon.
+Hi! I'm Jason, a student at the University of Oregon.
 
