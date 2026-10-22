@@ -6,7 +6,7 @@ Stuff I've made: [Seal](https://sealmessenger.com/) · [Wick](https://guesswick.
 <table>
   <tr>
     <td><a href="https://sealmessenger.com/"><img src="https://jasonepage.github.io/img/seal/search.webp?v=2" alt="Seal" width="400"></a></td>
-    <td><a href="https://guesswick.com"><img src="https://jasonepage.github.io/img/wick/search.webp?v=2" alt="Wick" width="400"></a></td>
+    <td><a href="https://guesswick.com"><img src="https://jasonepage.github.io/img/wick/search-v2.webp" alt="Wick" width="400"></a></td>
   </tr>
   <tr>
     <td><a href="https://nanitch.com"><img src="https://jasonepage.github.io/img/nanitch/search.webp?v=2" alt="Nanitch" width="400"></a></td>
