@@ -14,7 +14,7 @@ Stuff I've made: [Seal](https://sealmessenger.com/) · [Wick](https://guesswick.
   </tr>
   <tr>
     <td><a href="https://makmak.app/"><img src="https://jasonepage.github.io/img/makmak/search.webp?v=2" alt="MakMak" width="400"></a></td>
-    <td><a href="https://progressivegin.com/"><img src="https://jasonepage.github.io/img/progressivegin/search.webp?v=2" alt="Progressive Gin" width="400"></a></td>
+    <td><a href="https://progressivegin.com/"><img src="https://jasonepage.github.io/img/progressivegin/search-v2.webp" alt="Progressive Gin" width="400"></a></td>
   </tr>
   <tr>
     <td><a href="https://stargazer-web-api.onrender.com/"><img src="https://jasonepage.github.io/img/stargazer/search.webp?v=2" alt="Stargazer" width="400"></a></td>
